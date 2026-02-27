@@ -1,37 +1,20 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Hugh
 
-🎓 Computer Science Student  
-💻 Passionate about C++ and Problem Solving  
-🌱 Currently learning Data Structures and Algorithms  
+I'm currently a Junior at San Jose State University pursuing a bachelor's in Software Engineering.
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on C++ projects
-- 🌱 I’m improving my DSA skills
-- 🎯 Goal: Become a strong software developer
-- ⚡ Fun fact: I love solving logical problems
+A little bit about me: I'm naturally curious and want to know EVERYTHING, which is why I chose CS. 
+I like diving deep into everything and building whatever comes to mind.
+
 
 ---
 
-## 🛠️ Languages and Tools
-- C++
-- Git & GitHub
-- VS Code
-- Linux (if you use it)
+## Things that currently excite me:
+- Game Dev
+- AI Agents
+- System Design
 
----
 
-## 📌 Featured Projects
-- 🔹 [Calculator in C++](https://github.com/yourusername/project)
-- 🔹 [Student Management System](https://github.com/yourusername/project)
 
----
 
-## 📫 Connect With Me
-- LinkedIn: (your link)
-- Email: your@email.com
-
----
-
-⭐️ From [YourUsername](https://github.com/yourusername)
